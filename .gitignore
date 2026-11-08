@@ -1,0 +1,16 @@
+# Credenciales locales (en GitHub va config/database.example.php)
+config/database.php
+.env
+
+# Logs
+*.log
+logs/
+
+# Dependencias de Composer
+vendor/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
